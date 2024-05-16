@@ -1,0 +1,6 @@
+name: astrointro-supernovae
+dependencies:
+  - python
+  - numpy
+  - scipy
+
